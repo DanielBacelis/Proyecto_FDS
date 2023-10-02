@@ -18,7 +18,7 @@
 + Bitácora
 
 ## Entregas 
-[Primera Entrega](https://github.com/Daniel-Pliego/Proyecto-FIS)
+[Primera Entrega](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega)
 [Segunda Entrega]
 [Tercera Entrega]
   
