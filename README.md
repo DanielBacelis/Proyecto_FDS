@@ -10,9 +10,9 @@
 + [Gaspar Alfredo Gijon Gil](https://github.com/CREARPRO)
 
 ## Contenido
-+ Objetivos
++ [Objetivos](https://github.com/DanielBacelis/Proyecto_FDS/tree/Contenido/Objetivos)
 + Herramientas y métodos
-+ Roles y proceso de trabajo-
++ Roles y proceso de trabajo
 + Casos de uso
 + Requerimientos
 + Bitácora
