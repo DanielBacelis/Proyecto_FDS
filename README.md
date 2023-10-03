@@ -1,5 +1,7 @@
 # OptiEstudio
 
+[![BANNNERHD.jpg](https://i.postimg.cc/sX84VttQ/BANNNERHD.jpg)](https://postimg.cc/N96HDPGB)
+
 **"OptiEstudio es una plataforma diseñada para mejorar la concentración y rendimiento académico, proporcionando herramientas y recursos que optimizan la eficiencia de estudio**
 
 ## Equipo
