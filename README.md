@@ -21,6 +21,11 @@
 
 ## Entregas 
 [Primera Entrega](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega)
++ [Producto](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega/Producto)
++ [Requisitos](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega/Requisitos)
++ [Proceso](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega/Proceso)
++ [Presentación del avance](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega/Presentaci%C3%B3n%20del%20%20Avance)
++ [Competencias](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega/Competencias)
 [Segunda Entrega]
 [Tercera Entrega]
   
