@@ -1,3 +1,1 @@
-# Competencias generales
 
-# Competencias especificas 
