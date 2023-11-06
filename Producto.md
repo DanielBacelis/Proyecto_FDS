@@ -67,27 +67,27 @@ Edad: 18-25 años.
  Perfil: Están activamente involucrados en sus estudios académicos, buscan formas de optimizar su tiempo de estudio y mejorar su concentración. Pueden tener diversidad de intereses y estilos de aprendizaje.
 
 ## Preparadores para Exámenes:
-### Edad: Varía según el tipo de examen, generalmente 17-30 años.
-### Perfil: Se están preparando para exámenes cruciales y requieren herramientas que les ayuden a mantener la calma y concentrarse en su preparación. Buscan métodos efectivos para estudiar de manera productiva.
+ **Edad:** Varía según el tipo de examen, generalmente 17-30 años.
+ **Perfil:** Se están preparando para exámenes cruciales y requieren herramientas que les ayuden a mantener la calma y concentrarse en su preparación. Buscan métodos efectivos para estudiar de manera productiva.
 
 
 ## Profesores y Educadores:
-Edad: 25-60 años.
-Perfil: Educadores comprometidos que buscan mejorar la experiencia de aprendizaje de 
+ **Edad:** 25-60 años.
+ **Perfil:** Educadores comprometidos que buscan mejorar la experiencia de aprendizaje de 
 sus estudiantes. Interesados en herramientas que puedan recomendar para mejorar la 
 concentración y el rendimiento académico.
 
 
 ## Padres o Tutores:
-Edad: 30-50 años.
-Perfil: Padres preocupados por el rendimiento académico de sus hijos y que buscan 
+ **Edad:** 30-50 años.
+ **Perfil:** Padres preocupados por el rendimiento académico de sus hijos y que buscan 
 brindarles herramientas útiles para estudiar de manera más efectiva. Buscan formas de 
 apoyar el proceso de estudio de sus hijos.
 
 
 ## Profesionales en el Ámbito Laboral:
-Edad: 25-50 años.
-Perfil: Profesionales en diversos campos que buscan formas de mejorar su productividad y 
+ **Edad:** 25-50 años.
+ **Perfil:** Profesionales en diversos campos que buscan formas de mejorar su productividad y 
 concentración en el trabajo. Interesados en técnicas que les permitan abordar sus tareas 
 laborales de manera más eficiente.
 
@@ -101,13 +101,13 @@ y eficiencia en el estudio.
 Lo que hace diferente y especial a **OptiEstudio** son las siguientes caracteristicas:
 
 ## Algoritmo:
-### La página contará con un algoritmo al iniciar sesión en la página, pidiendo gustos musicales, visuales e incluso los colores que más le relajen de una paleta predefinida, logrando una mejor prdouctividad por parte del usuario
+La página contará con un algoritmo al iniciar sesión en la página, pidiendo gustos musicales, visuales e incluso los colores que más le relajen de una paleta predefinida, logrando una mejor prdouctividad por parte del usuario
 
 ## Creación de Cuentas: 
-### Una cuenta en nuestro servicio facilitará a los usuarios volver a tener de vuelta su configuración sin tener que hacer todo desde 0
+Una cuenta en nuestro servicio facilitará a los usuarios volver a tener de vuelta su configuración sin tener que hacer todo desde 0
 
 ## Modo concentración
-### La página tendra un temporizador configurable para la productividad y descansos. por ejemplo, el usuario configura la concentración en 25 minutos, cuando acabe ese tiempo emppezar´n 5 minutos de descanso, este temporizador será infinito hasta que el usuario guste detenerlo
+La página tendra un temporizador configurable para la productividad y descansos. por ejemplo, el usuario configura la concentración en 25 minutos, cuando acabe ese tiempo emppezar´n 5 minutos de descanso, este temporizador será infinito hasta que el usuario guste detenerlo
 
 ## Personalización
-### La página incorporará una personalización unica. Como se explicó en la sección "Algoritmo", se le pedirá a el usuario sus gustos, haciendo de esta forma que la págia sea casi uníca para cada usuario
+La página incorporará una personalización unica. Como se explicó en la sección "Algoritmo", se le pedirá a el usuario sus gustos, haciendo de esta forma que la págia sea casi uníca para cada usuario
