@@ -30,3 +30,8 @@
  • Diseño que permita cambios y actualizaciones sin interrupciones importantes.
 ## Accesibilidad:
  • Accesibilidad para personas con discapacidades, cumpliendo con estándares de accesibilidad web (WCAG)
+
+
+ # Priorizacion 
+
+ # Artefactos 
