@@ -77,6 +77,7 @@ La competencia y las tendencias existentes en el ámbito del aprendizaje online 
 - La inteligencia artificial y el aprendizaje adaptativo, que buscan ofrecer una experiencia de aprendizaje personalizada, que se ajuste al nivel, al progreso y a las necesidades de cada usuario.
 - El metaverso y la realidad virtual, que buscan crear un espacio virtual donde los usuarios puedan aprender, trabajar y socializar de forma inmersiva y colaborativa.
 - El micro aprendizaje y los micro contenidos, que buscan ofrecer una forma de aprendizaje ágil, flexible y eficaz, que se adapte al tiempo y al contexto de los usuarios.
+
 El mercado de la educación digital está creciendo fuertemente, impulsado por la demanda de formación continua, flexible y personalizada. Se refleja que el sector de la formación online se disparará desde los 8.400 millones de dólares con que cerró 2020 a unos 33.200 millones en 2025. Dentro de este mercado, el segmento de las herramientas de productividad y bienestar tiene una gran oportunidad, ya que cada vez más personas buscan soluciones para mejorar su rendimiento, su salud mental y su equilibrio entre el trabajo y la vida personal.
 
 (establecer el presupuesto el cronograma el equipo de trabajo del proyecto.)
