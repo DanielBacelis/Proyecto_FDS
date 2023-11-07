@@ -9,22 +9,58 @@ Para implementar el proyecto "OptiEstudio", se debe seguir un proceso que consta
 
 ## Proposito:
 
-## Objetivos:
+## Objetivos generales:
 
-#3 Alcance:
--Estudiantes de todas las edades:
+Crear y mantener una página web que sirva como un recurso confi able y efectivo para los usuarios, ayudándoles a encontrar tranquilidad y motivación durante la realización de actividades escolares y de la vida cotidiana, a través de enfoques psicológicos y cinestésicos.
+
+* ### investigacion y desarrollo:
+* Investigar en profundidad las teorías psicológicas y cinestésicas relacionadas con la tranquilidad y la motivación.
+* Desarrollar y recopilar contenido basado en estas teorías para la página web.
+
+* ### diseño y desarrollo de la dágina web:
+* Diseñar una interfaz de usuario atractiva, amigable y de fácil navegación que promueva la sensación de tranquilidad.
+* Desarrollar la página web utilizando tecnologías web modernas y garantizar su funcionalidad en múltiples dispositivos.
+
+* ### contenido educativo:
+* Crear y publicar contenido educativo de alta calidad relacionado con cuestiones escolares y de la vida cotidiana.
+* Integrar estrategias de aprendizaje basadas en psicología educativa para mejorar la efectividad del contenido.
+
+* ### recursos interactivos:
+* Incorporar elementos interactivos, como ejercicios cinestésicos y técnicas de relajación, para que los usuarios puedan experimentar la tranquilidad en tiempo real.
+
+* ### comunidad y apoyo:
+* Establecer un espacio de comunidad en línea donde los usuarios puedan compartir experiencias y brindarse apoyo mutuo.
+* Proporcionar herramientas de comunicación para que los usuarios puedan conectarse con expertos en psicología y bienestar.
+
+* ### evaluacion y mejora continua:
+* Realizar un seguimiento de la satisfacción del usuario y la efectividad de los enfoques utilizados.
+* Recopilar retroalimentación y datos para realizar mejoras constantes en la página web.
+
+* ### promoción y difusión:
+* Implementar estrategias de marketing digital para aumentar la visibilidad y la participación de los usuarios en la página web.
+* Colaborar con instituciones educativas y profesionales de la psicología para promover la plataforma.
+
+* ### sostenibilidad:
+* Identifi car fuentes de fi nanciamiento sostenibles para mantener y hacer crecer el proyecto a lo largo del tiempo.
+
+* ### medición de resultados:
+* Establecer métricas claras para evaluar el impacto del proyecto en la tranquilidad y motivación de los usuarios.
+* Realizar informes periódicos sobre el progreso y los logros alcanzados.
+
+## Alcance:
+- Estudiantes de todas las edades:
 Desde estudiantes de primaria hasta universitarios y estudiantes de posgrado que buscan apoyo para lidiar con el estrés académico, la ansiedad por exámenes y la gestión del tiempo.
 
--Profesionales y Trabajadores:
+- Profesionales y Trabajadores:
 Personas que desean mejorar su bienestar mientras enfrentan desafíos en el entorno laboral, como la gestión del estrés, la motivación y el equilibrio trabajo-vida.
 
--Padres y Cuidadores:
+- Padres y Cuidadores:
 Individuos que buscan recursos para apoyar a sus hijos en su educación y desarrollo emocional, así como para gestionar las demandas de la crianza.
 
--Profesionales de la Salud y Educadores:
+- Profesionales de la Salud y Educadores:
 Psicólogos, terapeutas, maestros y profesionales relacionados que pueden utilizar la plataforma como recurso para sus propios pacientes o estudiantes.
 
--Cualquier persona interesada en el bienestar emocional:
+- Cualquier persona interesada en el bienestar emocional:
 Cualquier individuo que busque mejorar su bienestar emocional, encontrar técnicas derelajación, o aprender más sobre enfoques psicológicos y cinestésicos.
 
 ## Requisitos:
