@@ -1,4 +1,4 @@
-## Competencias
+# Competencias
 ## Competencias generales:
 Las competencias genéricas son el conjunto de habilidades que le permiten a una persona tener un buen desempeño en cualquier entorno laboral. Algunas de las competencias genéricas que podrían estar relacionadas con tu idea son: 
  
@@ -12,7 +12,7 @@ Las competencias genéricas son el conjunto de habilidades que le permiten a una
 •	La capacidad de colaborar con otras personas para alcanzar objetivos comunes, respetando la diversidad, la inclusión y la participación. Tu idea de página web promueve el trabajo en equipo al crear una comunidad de aprendizaje donde los usuarios puedan compartir experiencias, dudas, consejos y apoyo mutuo. 
 
 
-## Competencias especifica:
+# Competencias especifica:
 •	Las competencias específicas de la idea de página web son aquellas que se relacionan con el contenido y el manejo técnico de la plataforma, así como con el área de conocimiento que aborda. Algunas posibles competencias específicas de tu idea son: 
  
 ## Diseño web:  
