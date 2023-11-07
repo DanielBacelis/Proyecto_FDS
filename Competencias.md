@@ -1,5 +1,6 @@
 ## Competencias
-## Competencias generales:Las competencias genéricas son el conjunto de habilidades que le permiten a una persona tener un buen desempeño en cualquier entorno laboral. Algunas de las competencias genéricas que podrían estar relacionadas con tu idea son: 
+## Competencias generales:
+Las competencias genéricas son el conjunto de habilidades que le permiten a una persona tener un buen desempeño en cualquier entorno laboral. Algunas de las competencias genéricas que podrían estar relacionadas con tu idea son: 
  
 Creatividad:  
 •	La capacidad de generar ideas originales y novedosas que aporten valor a un proyecto o una situación. Tu idea de página web muestra creatividad al ofrecer una plataforma que integra diferentes enfoques de aprendizaje y herramientas para mejorar la concentración y el rendimiento académico. 
