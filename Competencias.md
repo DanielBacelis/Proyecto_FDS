@@ -1,4 +1,4 @@
-##Competencias
+## Competencias
 ## Competencias generales:
 
 ## Competencias especificas:
