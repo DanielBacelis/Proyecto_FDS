@@ -47,3 +47,4 @@ desarrollo y mantenimiento continuo de "OptiEstudio", asegurando que la platafor
 cumpla con su objetivo de mejorar la eficiencia de estudio y facilitar el proceso de
 aprendizaje.
 
+"Se incluyen las actividades/tareas/herramientas de monitoreo y/o seguimiento. Se cuentan con bitácoras de las reuniones donde se pueden observar los acuerdos/resolución de conflictos, tareas, responsables, productos resultantes y fechas límite de entrega.(aqui pondran la bitacora)"
