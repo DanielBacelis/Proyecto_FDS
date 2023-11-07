@@ -83,7 +83,9 @@ El mercado de la educación digital está creciendo fuertemente, impulsado por l
 (establecer el presupuesto el cronograma el equipo de trabajo del proyecto.)
 
 + ### Diseño:
-Diseño conceptual y visual de la plataforma web:(teniendo en cuenta los principios de usabilidad, accesibilidad y estética, definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios, incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio).
+Diseño conceptual y visual de la plataforma web:(teniendo en cuenta los principios de usabilidad, accesibilidad y estética, definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios (incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio).
+
+La interfaz dispone de secciones diseñadas para atender las preferencias de los usuarios y mejorar su experiencia de estudio. En esta plataforma, puedes encontrar notas, herramientas de gestión del tiempo, como la técnica Pomodoro, y otros recursos que se adaptan a tus necesidades individuales.
 
 + ### Desarrollo: 
 Esta etapa consiste en programar y codificar la plataforma web, utilizando las tecnologías y herramientas adecuadas. Se debe implementar el diseño y el contenido previamente definidos, así como las funcionalidades y características que permitan a los usuarios acceder y personalizar su experiencia de estudio. También se debe realizar pruebas y depuraciones para garantizar el correcto funcionamiento y rendimiento de la plataforma.
