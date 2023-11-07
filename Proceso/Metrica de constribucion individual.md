@@ -32,3 +32,6 @@ fácilmente entendidas y utilizadas por otros miembros del equipo.
 + Evaluación de la eficiencia y puntualidad con la que el individuo ha completado sus
 tareas y contribuciones, asegurando que el trabajo se realice en los plazos
 establecidos y con un alto nivel de productividad.
+
+
+METRICA:(colocar la metrica).
