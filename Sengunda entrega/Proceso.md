@@ -65,7 +65,21 @@ Cualquier individuo que busque mejorar su bienestar emocional, encontrar técnic
 
 ## Requisitos:
 
-estudio de mercado para identificar las necesidades y expectativas de los usuarios potenciales competencia y las tendencias existentes en el ámbito del aprendizaje online. establecer el presupuesto el cronograma el equipo de trabajo del proyecto.
+Las necesidades y expectativas de los usuarios potenciales de optiestudio son diversas, pero se pueden agrupar en algunos aspectos comunes:
+
+- Necesitan una forma de organizar sus tareas, proyectos y objetivos, tanto personales como profesionales, y de priorizar lo más importante.
+- Esperan una plataforma que les ofrezca una experiencia de aprendizaje inmersiva, que les ayude a concentrarse, a eliminar distracciones y a mantener la motivación.
+- Quieren una herramienta que se adapte a sus preferencias, estilos y ritmos de aprendizaje, y que les permita personalizar su entorno, su contenido y su feedback.
+- Buscan una solución que les aporte valor añadido, que les enseñe nuevas habilidades, que les inspire y que les conecte con otras personas que comparten sus intereses y objetivos.
+  
+La competencia y las tendencias existentes en el ámbito del aprendizaje online son variadas y dinámicas, y plantean retos y oportunidades para optiestudio. Algunas de las principales son:
+- La gamificación y el aprendizaje social, que buscan aumentar el compromiso, la diversión y la interacción de los usuarios con el contenido y con otros usuarios.
+- La inteligencia artificial y el aprendizaje adaptativo, que buscan ofrecer una experiencia de aprendizaje personalizada, que se ajuste al nivel, al progreso y a las necesidades de cada usuario.
+- El metaverso y la realidad virtual, que buscan crear un espacio virtual donde los usuarios puedan aprender, trabajar y socializar de forma inmersiva y colaborativa.
+- El micro aprendizaje y los micro contenidos, que buscan ofrecer una forma de aprendizaje ágil, flexible y eficaz, que se adapte al tiempo y al contexto de los usuarios.
+El mercado de la educación digital está creciendo fuertemente, impulsado por la demanda de formación continua, flexible y personalizada. Se refleja que el sector de la formación online se disparará desde los 8.400 millones de dólares con que cerró 2020 a unos 33.200 millones en 2025. Dentro de este mercado, el segmento de las herramientas de productividad y bienestar tiene una gran oportunidad, ya que cada vez más personas buscan soluciones para mejorar su rendimiento, su salud mental y su equilibrio entre el trabajo y la vida personal.
+
+(establecer el presupuesto el cronograma el equipo de trabajo del proyecto.)
 
 + ### Diseño:
 Diseño conceptual y visual de la plataforma web:(teniendo en cuenta los principios de usabilidad, accesibilidad y estética, definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios, incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio).
