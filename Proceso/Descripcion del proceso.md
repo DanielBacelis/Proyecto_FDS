@@ -23,7 +23,7 @@ proceso de aprendizaje.
 
 Para implementar el proyecto "OptiEstudio", se debe seguir un proceso que consta de varias etapas, que describiré a continuación:
 
-- *Análisis*:
+- **Análisis**:
 - proposito:
 - objetivos:
 - alcance:
@@ -34,14 +34,14 @@ Para implementar el proyecto "OptiEstudio", se debe seguir un proceso que consta
 - el cronograma
 - el equipo de trabajo del proyecto.
   
-- *Diseño*:
+- **Diseño**:
 - diseño conceptual y visual de la plataforma web(teniendo en cuenta los principios de usabilidad, accesibilidad y estética) definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios, incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio.
   
-- *Desarrollo*: Esta etapa consiste en programar y codificar la plataforma web, utilizando las tecnologías y herramientas adecuadas. Se debe implementar el diseño y el contenido previamente definidos, así como las funcionalidades y características que permitan a los usuarios acceder y personalizar su experiencia de estudio. También se debe realizar pruebas y depuraciones para garantizar el correcto funcionamiento y rendimiento de la plataforma.
+- **Desarrollo**: Esta etapa consiste en programar y codificar la plataforma web, utilizando las tecnologías y herramientas adecuadas. Se debe implementar el diseño y el contenido previamente definidos, así como las funcionalidades y características que permitan a los usuarios acceder y personalizar su experiencia de estudio. También se debe realizar pruebas y depuraciones para garantizar el correcto funcionamiento y rendimiento de la plataforma.
   
-- *Lanzamiento*: Esta etapa consiste en publicar y difundir la plataforma web, haciéndola accesible al público objetivo. Se debe realizar una campaña de marketing y comunicación para promocionar el proyecto y atraer a los usuarios. También se debe obtener el feedback y la evaluación de los usuarios, así como los datos y estadísticas de uso de la plataforma, para medir el impacto y la satisfacción del proyecto.
+- **Lanzamiento**: Esta etapa consiste en publicar y difundir la plataforma web, haciéndola accesible al público objetivo. Se debe realizar una campaña de marketing y comunicación para promocionar el proyecto y atraer a los usuarios. También se debe obtener el feedback y la evaluación de los usuarios, así como los datos y estadísticas de uso de la plataforma, para medir el impacto y la satisfacción del proyecto.
   
-- *Mantenimiento*: Esta etapa consiste en mantener y actualizar la plataforma web, asegurando su calidad y relevancia. Se debe realizar un seguimiento y un análisis continuo de los datos y el feedback de los usuarios, para identificar las fortalezas y debilidades del proyecto, así como las oportunidades de mejora y crecimiento. También se debe implementar las mejoras y cambios necesarios, así como las nuevas funcionalidades y contenidos que se requieran, para adaptarse a las necesidades y expectativas de los usuarios.
+- **Mantenimiento**: Esta etapa consiste en mantener y actualizar la plataforma web, asegurando su calidad y relevancia. Se debe realizar un seguimiento y un análisis continuo de los datos y el feedback de los usuarios, para identificar las fortalezas y debilidades del proyecto, así como las oportunidades de mejora y crecimiento. También se debe implementar las mejoras y cambios necesarios, así como las nuevas funcionalidades y contenidos que se requieran, para adaptarse a las necesidades y expectativas de los usuarios.
 
 ### Resumen
 En resumen, **"OptiEstudio"** se posiciona como un recurso esencial que fomenta un
