@@ -35,7 +35,7 @@ Para implementar el proyecto "OptiEstudio", se debe seguir un proceso que consta
 - el equipo de trabajo del proyecto.
   
 - **Diseño**:
-- diseño conceptual y visual de la plataforma web(teniendo en cuenta los principios de usabilidad, accesibilidad y estética) definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios, incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio.
+- diseño conceptual y visual de la plataforma web:(teniendo en cuenta los principios de usabilidad, accesibilidad y estética, definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios, incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio).
   
 - **Desarrollo**: Esta etapa consiste en programar y codificar la plataforma web, utilizando las tecnologías y herramientas adecuadas. Se debe implementar el diseño y el contenido previamente definidos, así como las funcionalidades y características que permitan a los usuarios acceder y personalizar su experiencia de estudio. También se debe realizar pruebas y depuraciones para garantizar el correcto funcionamiento y rendimiento de la plataforma.
   
