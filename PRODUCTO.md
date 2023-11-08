@@ -113,3 +113,56 @@ Los cambios realizados en la sección de "Procesos" entre la primera y la segund
 En la segunda entrega, lo nuevo que se ha agregado en la sección de "Procesos" son descripciones detalladas de las etapas del proyecto, información sobre la gestión y la inclusión de las bitácoras de reuniones.
 
 
+# Comparación de la Primera y Segunda Entrega en la Sección de Requisitos
+
+## Primera Entrega
+
+En la primera entrega, la sección de "Requisitos" proporcionaba información sobre los requisitos funcionales y no funcionales del proyecto, incluyendo aspectos como la autenticación, la optimización, el sistema de recompensas y las actividades durante los descansos. Estos requisitos estaban priorizados en tres niveles: no tan importante, importante y muy importante.
+
+## Segunda Entrega
+
+En la segunda entrega, la sección de "Requisitos" ha sido expandida y refinada:
+
+1. **Requisitos Funcionales:** Se ha mantenido la información sobre los requisitos funcionales, incluyendo detalles sobre la autenticación, el contacto directo usuario-algoritmo, las preferencias auditivas y visuales, y las funcionalidades de búsqueda.
+2. **Requisitos no Funcionales:** La segunda entrega ha ampliado la información sobre los requisitos no funcionales, destacando aspectos como la usabilidad, el rendimiento, la disponibilidad, la seguridad, la escalabilidad, la compatibilidad y la mantenibilidad.
+3. **Priorización de Requisitos:** Se ha mantenido la priorización de los requisitos funcionales y se ha incluido una sección que muestra cómo se priorizaron los requisitos no funcionales según su importancia.
+
+## Cambios Realizados en la Sección de Requisitos
+
+Los cambios realizados en la sección de "Requisitos" entre la primera y la segunda entrega incluyen:
+
+- La expansión de requisitos no funcionales con detalles sobre usabilidad, rendimiento, seguridad y otros aspectos.
+- La inclusión de la priorización de requisitos no funcionales.
+- La actualización de la priorización de requisitos funcionales.
+
+## Lo Nuevo que se Hizo en la Sección de Requisitos
+
+En la segunda entrega, lo nuevo que se ha agregado en la sección de "Requisitos" son detalles sobre los requisitos no funcionales, sus niveles de prioridad y la expansión de la información sobre usabilidad, rendimiento y otros aspectos clave.
+
+
+# Comparación de la Primera y Segunda Entrega en la Sección de Competencias Generales
+
+## Primera Entrega
+
+En la primera entrega, la sección de "Competencias Generales" se centraba en competencias genéricas relacionadas con la creatividad, la comunicación efectiva, el conocimiento del público objetivo, el contexto, los objetivos y el manejo de la información. Estas competencias se relacionaban con el desarrollo de la plataforma de estudio en línea.
+
+## Segunda Entrega
+
+En la segunda entrega, la sección de "Competencias Generales" ha evolucionado y se han agregado aspectos específicos relacionados con el contenido técnico y el enfoque en el área de conocimiento del proyecto:
+
+1. **Diseño Web:** Se ha agregado la competencia relacionada con la habilidad de crear y mantener sitios web atractivos, funcionales y accesibles, utilizando lenguajes de programación, herramientas de edición y principios de usabilidad.
+2. **Pedagogía:** Se ha incluido la competencia relacionada con el conocimiento de teorías, métodos y estrategias para facilitar el proceso de enseñanza-aprendizaje y adaptarse a las características, necesidades e intereses de los estudiantes.
+3. **Neurociencia:** Se ha agregado la competencia relacionada con el estudio científico del sistema nervioso y sus funciones, especialmente en relación con el aprendizaje, la memoria, la atención y la emoción.
+4. **Psicología:** Se ha incluido la competencia relacionada con la ciencia que estudia los procesos mentales y el comportamiento humano, así como los factores que los influyen y los modos de intervenir en ello.
+
+## Cambios Realizados en la Sección de Competencias Generales
+
+Los cambios realizados en la sección de "Competencias Generales" entre la primera y la segunda entrega incluyen:
+
+- La expansión de las competencias genéricas con competencias específicas relacionadas con el desarrollo de la plataforma.
+- La inclusión de competencias técnicas relacionadas con el diseño web, la pedagogía, la neurociencia y la psicología.
+
+## Lo Nuevo que se Hizo en la Sección de Competencias Generales
+
+En la segunda entrega, lo nuevo que se ha agregado en la sección de "Competencias Generales" son competencias específicas relacionadas con el contenido técnico del proyecto y el enfoque en el área de conocimiento del proyecto, lo cual amplía el alcance de las habilidades requeridas.
+
