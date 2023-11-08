@@ -1,4 +1,4 @@
-# Requisitoas 
+# Requisitos 
 ## Niveles de prioridad:
 1: No tan importante
 2: Importante
