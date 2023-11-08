@@ -15,7 +15,7 @@
 + [Objetivos](https://github.com/DanielBacelis/Proyecto_FDS/tree/Contenido/Objetivos)
 + [Herramientas y métodos]()
 + Roles y proceso de trabajo
-+ [Casos de uso](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/casos_de_uso.md)🤔
++ [Casos de uso](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Contenido/casos_de_uso.md)🤔
 + [Requisitos](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Requisitos.md)✅
 + [Bitácora](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Rubrica.md)🛠️
 + [Historias de usuario](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Historias_de_Usuario.md)🧍‍♂️
