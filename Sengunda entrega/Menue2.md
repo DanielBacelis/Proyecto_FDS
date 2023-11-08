@@ -11,8 +11,4 @@
 
 [Requisitos](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Requisitos.md)✅
 
-[Rubrica](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Rubrica.md)🛠️
-
-[Casos de uso](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/casos_de_uso.md)🤔
-
 [Competencias](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/competencias.md)🌐
