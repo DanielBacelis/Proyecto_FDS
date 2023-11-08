@@ -32,3 +32,14 @@ Para lograr esto, se realizaron adaptaciones en el orden de los elementos en la 
 En cuanto a los artefactos utilizados, se seleccionaron con base en su capacidad para mejorar la experiencia del usuario y maximizar la eficiencia. Se incorporaron elementos ópticos, como gráficos intuitivos, iconos claros y tipografía legible, para facilitar la comprensión y la interacción. Además, se implementaron herramientas de búsqueda y navegación que permitieran a los usuarios encontrar rápidamente el contenido que necesitan.
 
 En resumen, el contenido de la interfaz y los artefactos utilizados en este proyecto se desarrollaron cuidadosamente para garantizar que estuvieran alineados con la idea principal del proyecto: la eficiencia y la adaptabilidad. Se priorizaron las necesidades de diferentes tipos de usuarios y se diseñaron elementos visuales y herramientas de navegación para satisfacer esas necesidades. El resultado es una interfaz que ofrece una experiencia efectiva y placentera para estudiantes, maestros y personas que buscan tranquilidad y orden en su uso.
+
+[![image.png](https://i.postimg.cc/brMQ6kyK/image.png)](https://postimg.cc/kRQ6GVtc)
+[![image.png](https://i.postimg.cc/5NhBLBkz/image.png)](https://postimg.cc/XpgB0CWN)
+[![image.png](https://i.postimg.cc/FRH3ND1M/image.png)](https://postimg.cc/Y4ThxN6R)
+[![image.png](https://i.postimg.cc/j2G76TvT/image.png)](https://postimg.cc/rRNscvvZ)
+[![image.png](https://i.postimg.cc/sgPhWtWF/image.png)](https://postimg.cc/Jsn0VYKK)
+[![image.png](https://i.postimg.cc/g2KKpwN6/image.png)](https://postimg.cc/qNzKX7fk)
+[![image.png](https://i.postimg.cc/66GL3bMK/image.png)](https://postimg.cc/3WYDf1Mf)
+[![image.png](https://i.postimg.cc/J0Wytxh7/image.png)](https://postimg.cc/mz8Z5QMK)
+[![image.png](https://i.postimg.cc/RVSF8N6Y/image.png)](https://postimg.cc/K4Wx3c57)
+
