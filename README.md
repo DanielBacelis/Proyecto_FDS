@@ -21,6 +21,6 @@
 
 ## Entregas 
 + [Primera Entrega](https://github.com/DanielBacelis/Proyecto_FDS/tree/Primera_entrega)
-+ [Segunda Entrega](https://github.com/DanielBacelis/Proyecto_FDS/tree/main/Sengunda%20entrega)
++ [Segunda Entrega](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Menue2.md)
 + [Tercera Entrega]
   
