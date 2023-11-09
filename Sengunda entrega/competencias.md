@@ -54,16 +54,27 @@ relacionan con el contenido y el manejo técnico de la plataforma, así como con
 área de conocimiento que aborda. Algunas posibles competencias específicas de tu 
 idea son:
 ## Diseño web: 
-• La habilidad de crear y mantener sitios web atractivos, funcionales y accesibles, 
-utilizando lenguajes de programación, herramientas de edición y principios de 
-usabilidad¹.
+• La habilidad de crear sitios web que sean visualmente atractivos, fáciles de usar y accesibles para todos, utilizando una combinación de conocimientos técnicos y habilidades creativas.
+los siguientes aspectos de la habilidad:
+• El aspecto visual: La habilidad incluye la capacidad de diseñar sitios web que sean atractivos y llamativos. Esto requiere conocimientos de diseño gráfico, teoría del color y psicología del color.
+• El aspecto funcional: La habilidad incluye la capacidad de crear sitios web que sean fáciles de usar y navegar. Esto requiere conocimientos de usabilidad, arquitectura de la información y diseño de interacción.
+• El aspecto de la accesibilidad: La habilidad incluye la capacidad de crear sitios web que sean accesibles para todos, independientemente de sus discapacidades. Esto requiere conocimientos de accesibilidad web y diseño para todos.¹.
 ## Pedagogía: 
-• El conocimiento de las teorías, métodos y estrategias para facilitar el proceso de 
-enseñanza-aprendizaje, adaptándose a las características, necesidades e intereses 
-de los estudiantes².
+• La capacidad de entender cómo aprenden los estudiantes y utilizar este conocimiento para diseñar experiencias de aprendizaje efectivas.
+los siguientes aspectos de la habilidad:
+El conocimiento de las teorías del aprendizaje: La habilidad requiere un conocimiento de las diferentes teorías del aprendizaje, como el conductismo, el cognitivismo y el constructivismo.
+El conocimiento de los métodos y estrategias de enseñanza: La habilidad requiere un conocimiento de los diferentes métodos y estrategias de enseñanza, como la instrucción directa, el aprendizaje basado en problemas y el aprendizaje cooperativo.
+La capacidad de adaptar la enseñanza: La habilidad requiere la capacidad de adaptar la enseñanza a las características, necesidades e intereses de los estudiantes.
 ## Neurociencia: 
 • El estudio científico del sistema nervioso y sus funciones, especialmente en 
 relación con el aprendizaje, la memoria, la atención y la emoción³.
+El uso de métodos científicos: La habilidad requiere la capacidad de utilizar métodos científicos, como la observación, la experimentación y la medición, para recopilar y analizar datos.
+El estudio del sistema nervioso: La habilidad requiere un conocimiento profundo del sistema nervioso, incluyendo su estructura, función y desarrollo.
+La relación con las funciones cognitivas y emocionales: La habilidad requiere un enfoque interdisciplinario, que combine el conocimiento de la neurociencia con el conocimiento de la psicología y la educación.
 ## Psicología: 
 • La ciencia que estudia los procesos mentales y el comportamiento humano, así 
-como los factores que los influyen y los modos de intervenir en ello
+como los factores que los influyen y los modos de intervenir en ello.
+El estudio de los procesos mentales: La habilidad requiere un conocimiento profundo de los procesos mentales, como el pensamiento, la emoción, la percepción y la memoria.
+El estudio del comportamiento: La habilidad requiere un conocimiento profundo del comportamiento humano, incluyendo sus causas y consecuencias.
+El estudio de los factores que influyen en el comportamiento: La habilidad requiere un conocimiento de los factores biológicos, psicológicos y sociales que influyen en el comportamiento humano.
+El estudio de los modos de intervenir en el comportamiento: La habilidad requiere un conocimiento de las diferentes formas en que se puede intervenir en el comportamiento humano, como la psicoterapia, la educación y la terapia ocupacional.
