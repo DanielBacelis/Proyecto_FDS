@@ -155,7 +155,7 @@ En la segunda entrega, la sección de "Competencias Generales" ha evolucionado y
 3. **Neurociencia:** Se ha agregado la competencia relacionada con el estudio científico del sistema nervioso y sus funciones, especialmente en relación con el aprendizaje, la memoria, la atención y la emoción.
 4. **Psicología:** Se ha incluido la competencia relacionada con la ciencia que estudia los procesos mentales y el comportamiento humano, así como los factores que los influyen y los modos de intervenir en ello.
 
-## Cambios Realizados en la Sección de Competencias Generales
+## Cambios Realizados en la Sección de Competencias
 
 Los cambios realizados en la sección de "Competencias Generales" entre la primera y la segunda entrega incluyen:
 
