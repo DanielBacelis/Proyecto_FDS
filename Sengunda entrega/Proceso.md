@@ -7,7 +7,34 @@ Para implementar el proyecto "OptiEstudio", se debe seguir un proceso que consta
 
 ## Análisis:
 
+**OptiEstudio** ofrece un enfoque integral al integrar estímulos auditivos, visuales y cinestésicos para potenciar el rendimiento académico y la concentración. Destaca por estrategias como sonidos ambientales y elementos visuales estratégicos. Su diseño intuitivo y fácil de usar, junto con la posibilidad de personalización, brinda una experiencia eficiente. La plataforma proporciona recursos específicos y asesoramiento de expertos para respaldar el proceso de aprendizaje de manera integral.
+
+**Enfoque Holístico:**
+Integración de estímulos auditivos, visuales y kinestésicos.
+
+**Objetivo Principal:**
+Potenciar desempeño académico y concentración.
+
+**Estímulos Auditivos:**
+Estrategia con sonidos ambientales y música.
+
+**Elementos Visuales:**
+Uso estratégico de esquemas, gráficos y colores.
+
+**Elementos Kinestésicos:**
+Integración de movimiento e interacción física.
+
+**Diseño Intuitivo y Fácil de Usar:**
+Acceso rápido a herramientas con diseño intuitivo.
+
+**Personalización de la Experiencia:**
+Flexibilidad y adaptabilidad para preferencias individuales.
+
+**Recursos y Herramientas Específicas:**
+Amplia gama diseñada para mejorar eficiencia de estudio.
+
 ## Proposito:
+El propósito de OptiEstudio es mejorar el rendimiento académico y la concentración mediante un enfoque integral que integra estímulos auditivos, visuales y cinestésicos. La plataforma busca proporcionar herramientas personalizadas y recursos específicos para optimizar la eficiencia de estudio, respaldando así el proceso educativo de los usuarios.
 
 ## Objetivos generales:
 
