@@ -80,7 +80,8 @@ La competencia y las tendencias existentes en el ámbito del aprendizaje online 
 
 El mercado de la educación digital está creciendo fuertemente, impulsado por la demanda de formación continua, flexible y personalizada. Se refleja que el sector de la formación online se disparará desde los 8.400 millones de dólares con que cerró 2020 a unos 33.200 millones en 2025. Dentro de este mercado, el segmento de las herramientas de productividad y bienestar tiene una gran oportunidad, ya que cada vez más personas buscan soluciones para mejorar su rendimiento, su salud mental y su equilibrio entre el trabajo y la vida personal.
 
-(establecer el presupuesto el cronograma el equipo de trabajo del proyecto.)
+![image](https://github.com/DanielBacelis/Proyecto_FDS/assets/142640263/9a07ea57-b161-4a2e-b797-5215a74fa6f2)
+
 
 + ### Diseño:
 Diseño conceptual y visual de la plataforma web:(teniendo en cuenta los principios de usabilidad, accesibilidad y estética, definir la arquitectura de la información, la navegación, la interfaz y la interacción de la plataforma. También se debe seleccionar la paleta de colores, las tipografías, los iconos y los elementos gráficos que se utilizarán. Además, se debe elaborar el contenido textual y multimedia que se ofrecerá a los usuarios (incluyendo los estímulos auditivos, visuales y kinestésicos, así como las guías y consejos sobre técnicas de estudio).
