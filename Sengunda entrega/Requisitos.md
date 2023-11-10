@@ -7,7 +7,7 @@
 Autenticación: 
 • El sistema debe permitir a los usuarios crear cuentas, iniciar sesión y restablecer 
 sus contraseñas a los usuarios.
-+Contacto directo usuario-algoritmo:
+
 Prioridad: 3
 
 Contacto directo usuario-algoritmo:
