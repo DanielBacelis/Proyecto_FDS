@@ -85,6 +85,46 @@ En la segunda entrega, lo nuevo que se ha agregado en la sección de "Historias 
 
 
 
+# Comparación de la Primera y Segunda Entrega de la Presentación del Avance
+
+## Primera Entrega
+
+- Presentación inicial de OptiEstudio.
+- Explicación detallada de qué es OptiEstudio, sus beneficios, herramientas, recursos y cómo funciona.
+- Enfoque en el tipo de lenguaje formal con alta comprensión.
+- Énfasis en la estructura de la presentación, el ritmo de la presentación y la variedad de recursos visuales.
+
+## Segunda Entrega
+
+- Breve reintroducción de OptiEstudio.
+- Mantenimiento de la explicación de qué es OptiEstudio, sus beneficios, herramientas, recursos y cómo funciona.
+- Mejoras en la estructura y presentación, incluyendo una narrativa persuasiva y una mayor atención al ritmo y la fluidez de la presentación.
+- Mantenimiento del lenguaje formal pero con un enfoque en la claridad y la simplicidad.
+- Uso estratégico de variaciones en el tono y el pitch para mantener el interés de la audiencia.
+
+## Cambios realizados entre la primera y segunda entrega
+
+- Estructura de la presentación: La segunda entrega ha mejorado la estructura de la presentación, dividiéndola en secciones más definidas y añadiendo transiciones suaves para guiar a la audiencia a través del proyecto.
+- Ritmo y fluidez de la presentación: Se presta especial atención al ritmo y la fluidez en la segunda entrega, evitando hablar demasiado rápido o lento y añadiendo pausas para enfatizar puntos clave.
+- Narrativa persuasiva: La segunda entrega incorpora una narrativa persuasiva que envuelve a la audiencia en una historia convincente sobre cómo OptiEstudio puede mejorar su vida académica.
+- Claridad y simplicidad en el lenguaje: Aunque se mantiene un lenguaje formal, se refina la redacción para que sea más accesible y atractiva, con explicaciones concisas de términos técnicos.
+- Variaciones en el tono y el pitch: Se utilizan variaciones en el tono y el pitch de manera estratégica para mantener el interés de la audiencia.
+
+## Lo nuevo que se hizo en la segunda entrega
+
+- Enfoque en la estructura clara y coherente de la presentación, con secciones bien definidas y transiciones suaves.
+- Énfasis en la narrativa persuasiva que comunica de manera efectiva las características de OptiEstudio y su impacto en la vida académica de los usuarios.
+- Uso estratégico de variaciones en el tono y el pitch para mantener la atención de la audiencia en momentos clave.
+
+
+
+
+
+
+
+
+
+
 
 # Comparación de la Primera y Segunda Entrega en la Sección de Procesos
 
