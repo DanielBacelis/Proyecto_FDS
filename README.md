@@ -12,7 +12,7 @@
 + [Gaspar Alfredo Gijon Gil](https://github.com/CREARPRO)
 
 ## Contenido
-+ [Objetivos](https://github.com/DanielBacelis/Proyecto_FDS/tree/Contenido/Objetivos)
++ [Objetivos](https://github.com/DanielBacelis/Proyecto_FDS/blob/Contenido/Objetivos/Objetivos.md)
 + [Herramientas y métodos](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Contenido/Herramientas%20y%20metodos.md)
 + [Roles y proceso de trabajo](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/Roles%20y%20proceso%20de%20trabajo.md)
 + [Casos de uso](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Contenido/casos_de_uso.md)🤔
