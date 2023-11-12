@@ -14,3 +14,5 @@
 [Competencias](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/competencias.md)🌐
 
 [Producto](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Sengunda%20entrega/PRODUCTO.md)🥇
+
+[Video de entrega 2](https://youtu.be/_8T5P3nk4Bs)🎬
