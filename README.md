@@ -29,6 +29,8 @@
 
 
 ## Prueba de desempeño
+**Nota** *Existe un documento 
 + [PD1](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/PD1_FDS%20(1).docx)
-+ [PD2](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/Pruebas%20de%20desempe%C3%B1o.md)
-+ [PD3](
++ [PD2](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/PD2.md)
++ [PD3](https://github.com/DanielBacelis/Proyecto_FDS/blob/main/PD3.md)
+  
