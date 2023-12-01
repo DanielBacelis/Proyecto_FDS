@@ -28,8 +28,7 @@ El aspecto comunitario de la página web busca fomentar el trabajo en equipo y l
 - **Facilitación de la Comunicación:** Herramientas como foros y chats se implementan para facilitar la comunicación entre los usuarios, promoviendo la interacción y el intercambio de ideas.
 - **Promoción de la Diversidad:** Se incentiva la diversidad en la comunidad de aprendizaje, reconociendo la riqueza que aporta la diversidad de género, edad, cultura y experiencia.
 
-
-Competencias especificas: 
+ 
 
 
 ## Competencias Específicas:
