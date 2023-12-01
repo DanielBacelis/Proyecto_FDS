@@ -20,8 +20,8 @@ Conclusiones
 
 En general, los cambios realizados en la tercera  entrega de OptiEstudio representan una mejora significativa en la documentación del proyecto. La información proporcionada es más detallada, clara y coherente, y se presenta de una manera más persuasiva. Estos cambios hacen que la documentación sea más útil para los miembros del equipo de desarrollo, los usuarios finales y otras partes interesadas.
 
-## Usuarios:
-# Usuarios de OptiEstudio
+# Usuarios:
+##Usuarios de OptiEstudio
 
 ## Usuarios Primarios: Estudiantes en busca de mejora académica
 
