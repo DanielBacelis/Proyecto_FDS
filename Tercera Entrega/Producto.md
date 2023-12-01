@@ -1,5 +1,5 @@
-## Producto:
-# Usuarios:
+# Producto:
+## Usuarios:
 # Usuarios de OptiEstudio
 
 ## Usuarios Primarios: Estudiantes en busca de mejora académica
