@@ -102,6 +102,7 @@ Innovacion:
 
 La innovación de "OptiEstudio" radica en su enfoque integral y personalizable, que va más allá de las soluciones convencionales para abordar las diversas facetas del proceso de aprendizaje. Esta combinación única de características lo posiciona como un aliado esencial para aquellos que buscan optimizar su rendimiento académico.
 # Los cambios que se hizo en esta tercera entrega son :
+## Evolución del Producto
 De acuerdo con la información proporcionada, los cambios significativos entre la segunda y tercera entrega de OptiEstudio se pueden resumir en los siguientes puntos:
 
 La tercera entrega incluye información más detallada sobre el diseño de la plataforma, los requisitos funcionales y no funcionales, los procesos de desarrollo y las competencias generales necesarias para el proyecto.
