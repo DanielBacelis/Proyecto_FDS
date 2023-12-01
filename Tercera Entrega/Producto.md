@@ -101,3 +101,22 @@ Innovacion:
 - **Beneficios:** Facilita la navegación y optimiza el tiempo de estudio, mejorando la experiencia general del usuario.
 
 La innovación de "OptiEstudio" radica en su enfoque integral y personalizable, que va más allá de las soluciones convencionales para abordar las diversas facetas del proceso de aprendizaje. Esta combinación única de características lo posiciona como un aliado esencial para aquellos que buscan optimizar su rendimiento académico.
+# Los cambios que se hizo en esta tercera entrega son :
+De acuerdo con la información proporcionada, los cambios significativos entre la segunda y tercera entrega de OptiEstudio se pueden resumir en los siguientes puntos:
+
+La tercera entrega incluye información más detallada sobre el diseño de la plataforma, los requisitos funcionales y no funcionales, los procesos de desarrollo y las competencias generales necesarias para el proyecto.
+La tercera entrega también presenta mejoras en la estructura y presentación de la información, con un enfoque en la claridad, la coherencia y la persuasión.
+Cambios más significativos en cada sección
+
+Los cambios más significativos en cada sección se pueden resumir de la siguiente manera:
+
+En la sección de diseño, se agrega información sobre la arquitectura de la información, la navegación, la interfaz, la interacción de la plataforma y el contenido textual y multimedia.
+En la sección de estimación, se agregan estimaciones de plazos y recursos específicos, así como la mención de metodologías ágiles y un enfoque en pruebas exhaustivas y depuraciones para garantizar la calidad y el rendimiento de la plataforma.
+En la sección de historias de usuario, se agrega una descripción detallada de lo que son las historias de usuario, cómo se estructuran y su importancia en la definición de requisitos. También se incluyen ejemplos concretos para ilustrar cómo se utilizan para capturar las necesidades de los usuarios.
+En la sección de la presentación del avance, se mejora la estructura y presentación, incluyendo una narrativa persuasiva y una mayor atención al ritmo y la fluidez de la presentación.
+En la sección de procesos, se detalla cada etapa del proyecto, desde el análisis y diseño hasta el lanzamiento y mantenimiento, con énfasis en las actividades y tareas realizadas en cada una. También se agrega información sobre la gestión del proceso, la retroalimentación de los usuarios y el seguimiento de métricas de rendimiento.
+En la sección de requisitos, se expande la información sobre los requisitos no funcionales con detalles sobre usabilidad, rendimiento, seguridad y otros aspectos. También se incluye la priorización de requisitos no funcionales.
+En la sección de competencias generales, se agregan competencias técnicas relacionadas con el diseño web, la pedagogía, la neurociencia y la psicología.
+Conclusiones
+
+En general, los cambios realizados en la tercera  entrega de OptiEstudio representan una mejora significativa en la documentación del proyecto. La información proporcionada es más detallada, clara y coherente, y se presenta de una manera más persuasiva. Estos cambios hacen que la documentación sea más útil para los miembros del equipo de desarrollo, los usuarios finales y otras partes interesadas.
