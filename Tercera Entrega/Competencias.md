@@ -1,7 +1,7 @@
 # Competencias_ 
 
 ## Compatencias genéricas
-## Promoción de Competencias Genéricas a través del Desarrollo del Producto
+# Promoción de Competencias Genéricas a través del Desarrollo del Producto
 
 ## Creatividad:
 
