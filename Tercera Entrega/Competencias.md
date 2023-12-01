@@ -42,4 +42,15 @@ El aspecto comunitario de la página web busca fomentar el trabajo en equipo y l
 ### Pedagogía:
 
 - **Conocimiento de Teorías del Aprendizaje:** La plataforma se fundamenta en diversas teorías del aprendizaje, adaptando la experiencia educativa para abordar diferentes estilos de aprendizaje.
+  
+# Crítica al Curso de Fundamentos de Ingeniería en Software:
+
+El curso de Fundamentos de Ingeniería en Software presenta una propuesta educativa muy interesante al desafiar a los alumnos a salir de su zona de confort, especialmente aquellos con conocimientos previos relacionados con la informática y la programación. Esta característica es esencial para fomentar el crecimiento y desarrollo personal, ya que estimula el pensamiento crítico y la adaptabilidad, habilidades cruciales en el mundo de la ingeniería de software en constante evolución. 
+
+## Aspectos Destacados: 
+Uno de los aspectos destacados del curso es su enfoque en proporcionar a los alumnos una visión realista de la vida del programador. Al basarse en proyectos futuros que podrían enfrentar, el curso no solo se centra en la teoría, sino que también prepara a los estudiantes para los desafíos prácticos que encontrarán en su carrera profesional. Esta conexión directa con la realidad laboral puede resultar motivadora y enriquecedora para los alumnos, ya que pueden visualizar cómo aplicarán sus conocimientos en situaciones concretas. Además, la enseñanza sobre el orden y la estructuración de proyectos es un componente valioso del curso. La habilidad de planificar y organizar de manera eficiente es esencial para el éxito en la ingeniería de software, y este enfoque ayuda a los alumnos a desarrollar estas habilidades desde el principio. La claridad en la estructuración de proyectos no solo facilita la comprensión de los conceptos, sino que también sienta las bases para un desarrollo de software eficiente y mantenible en la práctica. 
+
+## Áreas de Mejora:
+No obstante, una posible área de mejora podría ser la incorporación de ejemplos prácticos más variados y situaciones del mundo real para ilustrar los conceptos enseñados. Esto podría proporcionar a los alumnos una perspectiva más amplia y aplicada, lo que contribuiría a una comprensión más profunda y práctica de los temas cubiertos en el curso. En resumen, el curso de Fundamentos de Ingeniería en Software es fascinante al desafiar a los estudiantes a superar sus límites, al ofrecer una visión realista de la vida del programador y al enfocarse en el orden y la estructuración de proyectos. Aunque podría beneficiarse de una mayor diversidad de ejemplos prácticos, en general, proporciona una base sólida para el crecimiento académico y profesional de los alumnos interesados en la ingeniería de software.
+
 
