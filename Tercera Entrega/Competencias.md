@@ -1,4 +1,4 @@
-#Competencias_ 
+# Competencias_ 
 
 Compatencias genéricas
 # Promoción de Competencias Genéricas a través del Desarrollo del Producto
