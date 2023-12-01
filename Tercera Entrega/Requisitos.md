@@ -1,5 +1,5 @@
-Evolución de requisitos:
-# Requisitos Funcionales:
+# Evolución de requisitos:
+## Requisitos Funcionales:
 
 1. **Autenticación:**
    - *Prioridad:* 3
@@ -33,7 +33,7 @@ Evolución de requisitos:
    - *Prioridad:* 2
    - *Descripción:* Proporciona actividades sencillas durante los descansos para mantener la mente y el cuerpo activos.
 
-# Evolución de Requisitos:
+## Evolución de Requisitos:
 
 - *Contacto directo usuario-algoritmo:* Se extendió la descripción según los resultados de la encuesta para enfocar mejor la idea del requisito.
 - *Solicita preferencias auditivas:* Se eliminó la opción de ASMR debido a falta de elecciones.
@@ -74,8 +74,8 @@ Evolución de requisitos:
 8. **Accesibilidad:**
    - Accesibilidad para personas con discapacidades, cumpliendo con estándares de accesibilidad web (WCAG).
 
-Refinamiento de artefactos:
-# Gestión de Requerimientos - Versión Mejorada:
+# Refinamiento de artefactos
+## Gestión de Requerimientos - Versión Mejorada:
 
 En esta fase de mejora, hemos fortalecido significativamente nuestra gestión de requerimientos al contar con artefactos más detallados y estructurados. Los artefactos ahora incluyen especificaciones exhaustivas de requerimientos y historias de usuario, abarcando casos de uso, así como criterios de aceptación que definen claramente el éxito del desarrollo. Además, hemos introducido excepciones a considerar para anticipar y abordar posibles desafíos.
 
@@ -112,5 +112,4 @@ En esta fase de mejora, hemos fortalecido significativamente nuestra gestión de
    - *Cambio:* Se ha añadido un caso de uso específico para probar la compatibilidad en una variedad de dispositivos y navegadores.
    - *Evidencia:* Documento de casos de uso actualizado.
   
-     
-   - Listado final de requerimientos 
+   # Listado final de requerimientos 
