@@ -112,4 +112,64 @@ En esta fase de mejora, hemos fortalecido significativamente nuestra gestión de
    - *Cambio:* Se ha añadido un caso de uso específico para probar la compatibilidad en una variedad de dispositivos y navegadores.
    - *Evidencia:* Documento de casos de uso actualizado.
   
-   # Listado final de requerimientos 
+   # Listado final de requerimientos
+
+   ## Requisitos Funcionales:
+
+### Autenticación:
+- **Prioridad:** 3
+- **Descripción:** El sistema debe permitir a los usuarios crear cuentas, iniciar sesión y restablecer sus contraseñas. Se añadieron casos de uso específicos para el restablecimiento de contraseñas.
+
+### Contacto directo usuario-algoritmo:
+- **Prioridad:** 3
+- **Descripción:** Solicitar "gustos" predefinidos para personalizar el sitio web. La descripción se extendió según los resultados de la encuesta para enfocar mejor la idea del requisito.
+
+### Solicita preferencias auditivas:
+- **Prioridad:** 3
+- **Descripción:** Permite ingresar información de preferencias auditivas para concentración y relajación. La opción de ASMR se eliminó debido a falta de elecciones.
+
+### Solicita preferencias visuales:
+- **Prioridad:** 3
+- **Descripción:** Permite personalizar el sitio con opciones predeterminadas, IA creadora de imágenes y carga de fondos propios. Aunque la IA creadora de imágenes tuvo 0 elecciones, se mantendrá por ser característica distintiva.
+
+### Brinda opción optimización:
+- **Prioridad:** 2
+- **Descripción:** Muestra herramientas para concentración y productividad, como bitácoras y la técnica pomodoro. Se amplió y se agregaron técnicas de concentración como la técnica pomodoro.
+
+### Funcionalidad de búsqueda:
+- **Prioridad:** 2
+- **Descripción:** Proporciona una función de búsqueda para encontrar más recursos según palabras clave.
+
+### Sistema de "Recompensas":
+- **Prioridad:** 1
+- **Descripción:** Recompensa al usuario después de lograr retos específicos para motivar su progreso. Se creó para inspirar a los usuarios a completar desafíos. Se han mejorado los criterios de aceptación para reflejar con mayor precisión los retos específicos.
+
+### Actividades durante los descansos:
+- **Prioridad:** 2
+- **Descripción:** Proporciona actividades sencillas durante los descansos para mantener la mente y el cuerpo activos. Se creó para proporcionar actividades sencillas durante los descansos. Se han agregado escenarios de excepción para abordar posibles interrupciones durante las actividades.
+
+## Requisitos No Funcionales:
+
+### Usabilidad:
+- Interfaz intuitiva y fácil de usar.
+
+### Rendimiento:
+- Tiempo de carga rápido y rendimiento fluido.
+
+### Disponibilidad:
+- Disponibilidad 24/7 con mínimo tiempo de inactividad planificado.
+
+### Seguridad:
+- Garantizar la seguridad de los datos de los usuarios.
+
+### Escalabilidad:
+- Escalabilidad para manejar aumento de usuarios y datos.
+
+### Compatibilidad:
+- Compatibilidad con una amplia variedad de dispositivos y navegadores.
+
+### Mantenibilidad:
+- Diseño que permita cambios y actualizaciones sin interrupciones importantes.
+
+### Accesibilidad:
+- Accesibilidad para personas con discapacidades, cumpliendo con estándares de accesibilidad web (WCAG).
