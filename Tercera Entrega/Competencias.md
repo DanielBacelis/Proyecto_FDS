@@ -1,6 +1,6 @@
 # Competencias genéricas y específicas
 
-# Compatencias genéricas
+# Compatencias genéricas:
 ## Promoción de Competencias Genéricas a través del Desarrollo del Producto
 
 ## Creatividad:
