@@ -180,7 +180,7 @@ Evaluación de la calidad de la documentación y comunicación del trabajo reali
 + ### Eficiencia y Tiempo de Entrega:
 Evaluación de la eficiencia y puntualidad con la que el individuo ha completado sus tareas y contribuciones, asegurando que el trabajo se realice en los plazos establecidos y con un alto nivel de productividad.
 
-METRICA:(colocar la metrica).
+[![Captura-de-pantalla-2023-12-08-225625.png](https://i.postimg.cc/HsBMkQV4/Captura-de-pantalla-2023-12-08-225625.png)](https://postimg.cc/crtCDt7r)
 
 ## Organizacion y documentacion del repositorio
 [Aqui puede ver el repositorio](https://github.com/DanielBacelis/Proyecto_FDS)
